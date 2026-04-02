@@ -10,6 +10,6 @@ Volume 4: [SwiftUI for AI Apps](https://leanpub.com/SwiftUIforAIApps). Building 
 
 Volume 5: [Create ML Studio](https://leanpub.com/CreateMLStudioSwiftAI). Training custom models without Python: tabular, image, sound, and motion classifiers using Create ML in Swift. 
 
-Volume 6: [AI Agents on Apple Silicon](https://leanpub.com/AIAgentsAppleSilicon). Running local LLMs with Ollama, llama.cpp Swift bindings, and custom inference pipelines on Mac.
+Volume 6: [MLX Swift & Local LLMs](https://leanpub.com/AIAgentsAppleSilicon). Deep dive into Apple's MLX framework for high-performance machine learning. Building custom inference engines, fine-tuning local models (LoRA), and leveraging Unified Memory directly from Swift.
 
  
