@@ -13,3 +13,19 @@ Volume 5: [Create ML Studio](https://leanpub.com/CreateMLStudioSwiftAI). Trainin
 Volume 6: [MLX Swift & Local LLMs](https://leanpub.com/AIAgentsAppleSilicon). Deep dive into Apple's MLX framework for high-performance machine learning. Building custom inference engines, fine-tuning local models (LoRA), and leveraging Unified Memory directly from Swift.
 
  
+---
+
+# Other programming & AI series:
+
+[Python & AI Series](https://github.com/edgarmilvus/PythonProgrammingSeries) 
+
+[Android & Kotlin AI Series](https://github.com/edgarmilvus/AndroidKotlinAIProgrammingSeries)
+
+[Swift & AI Series](https://github.com/edgarmilvus/SwiftAIProgrammingSeries)
+
+[C# & AI Series](https://github.com/edgarmilvus/CSharpProgrammingSeries)  
+
+[Typescript & AI Series](https://github.com/edgarmilvus/JSTypescriptProgrammingSeries)
+
+[Rust & AI Series](https://github.com/edgarmilvus/RustAIProgrammingSeries)
+
