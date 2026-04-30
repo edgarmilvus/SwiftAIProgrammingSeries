@@ -1,4 +1,4 @@
-# Swift & AI Programming Series
+# Swift & AI Programming Series ebooks
 
 Volume 1: [Core ML & Vision Framework](https://leanpub.com/CoreMLVisionAISwift). On-device image classification, object detection, and custom model integration with Core ML and Vision.
 
@@ -11,6 +11,14 @@ Volume 4: [SwiftUI for AI Apps](https://leanpub.com/SwiftUIforAIApps). Building 
 Volume 5: [Create ML Studio](https://leanpub.com/CreateMLStudioSwiftAI). Training custom models without Python: tabular, image, sound, and motion classifiers using Create ML in Swift. 
 
 Volume 6: [MLX Swift & Local LLMs](https://leanpub.com/AIAgentsAppleSilicon). Deep dive into Apple's MLX framework for high-performance machine learning. Building custom inference engines, fine-tuning local models (LoRA), and leveraging Unified Memory directly from Swift.
+
+Volume 7: [visionOS & Spatial AI](https://leanpub.com/VisionOSSpatialAIWithSwift). Building intelligent AR/MR experiences for Apple Vision Pro with RealityKit, ARKit, and on-device AI
+
+Volume 8: [Swift + OpenAI & LangChain](https://leanpub.com/SwiftOpenAILangchain). Integrating external LLM APIs, RAG pipelines, and agentic workflows in iOS and macOS apps
+
+Volume 9: [CoreData, CloudKit & Vector Search](https://leanpub.com/CoreDataCloudKitVectorSearchSwift). Persistent AI memory, semantic search, and sync across Apple devices
+
+Volume 10: [Shipping AI Apps to the App Store](https://leanpub.com/ShippingAIAppsAppStore). Performance profiling, privacy compliance, App Review guidelines, and monetization for AI-powered apps
 
  
 ---
