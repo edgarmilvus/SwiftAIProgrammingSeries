@@ -20,7 +20,7 @@ Volume 9: [CoreData, CloudKit & Vector Search](https://leanpub.com/CoreDataCloud
 
 Volume 10: [Shipping AI Apps to the App Store](https://leanpub.com/ShippingAIAppsAppStore). Performance profiling, privacy compliance, App Review guidelines, and monetization for AI-powered apps
 
-Volume 16: React Native for Web Developers. From Next.js to Expo, NativeWind, and Universal App 
+ 
 ---
 
 # Other programming & AI series:
